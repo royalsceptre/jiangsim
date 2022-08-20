@@ -15,13 +15,13 @@ const resumeWorkHistory = [
 
 const resumeWebProjects = [
   {
-    title: "Next.js Express MongDB DNN Slick",
+    title: "Next.js Three.js Express MongDB DNN Slick",
     link: {
-      label: "www.aufin.biz",
-      href: "https://aufin.biz/"
+      label: "calibrex.com",
+      href: "https://calibrex.com/"
     },
     description:
-      "An open source React and MongoDB based finance system. Similar to Magento, OpenCart, etc. (React, DNN, Express, MongoDB)"
+      "An open source React and MongoDB based fitness system. Similar to Magento, OpenCart, etc. (React, Three.js, DNN, Express, MongoDB)"
   },
   {
     title: "REACT-NFT-SMART CONTRACT",
